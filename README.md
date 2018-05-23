@@ -1,4 +1,4 @@
-# Zeus - Applications
+# Zeus - Auto Discovery
 
 [![Eclipse License](http://img.shields.io/badge/license-Eclipse-brightgreen.svg)](LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/dirigiblelabs/zeus-v3-auto-discovery.svg)](https://github.com/dirigiblelabs/zeus-v3-auto-discovery/graphs/contributors)
