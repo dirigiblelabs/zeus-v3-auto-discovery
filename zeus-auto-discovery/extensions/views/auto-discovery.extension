@@ -1,0 +1,5 @@
+{
+	'description': 'Auto Discovery view',
+	'extensionPoint': 'launchpad-zeus-accounts-view',
+	'module': 'zeus-auto-discovery/views/Auto-Discovery/view.js'
+}
